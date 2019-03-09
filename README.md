@@ -4,17 +4,17 @@
 
 /* Finding minimun number of days for converting move "s" to stronger move "t". */
 
-#include<iostream>
+#include <iostream>
     
-#include<vector>
+#include <vector>
     
 using namespace std ;
 
 int main()
 
-{  
-    vector <char> ar;
-    
+{   
+
+    vector <char> ar; 
     vector <char> ar2;
     
     int n;
