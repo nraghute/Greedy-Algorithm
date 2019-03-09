@@ -1,17 +1,12 @@
 /* Greedy Algorithm Problems (Program in C++ ) */
-
 /* Pikachu and the Game of Strings  */
-
 /* Finding minimun number of days for converting move "s" to stronger move "t". */
 
 #include <iostream>
-    
 #include <vector>
-    
 using namespace std ;
 
 int main()
-
 {   
 
     vector <char> ar; 
